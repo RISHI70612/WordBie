@@ -70,6 +70,10 @@
   white-space: nowrap;
 }
 
+.skipButton:hover{
+  transform : translate(0, -6px);
+    box-shadow : 10px -10px 25px 0 rgba(10, 214, 170, 0.5), -10px 10px 25px 0 rgba(4, 95, 84, 0.5)
+}
 
 
 .wordButtons {
@@ -120,7 +124,10 @@
 }
 .submitButton:hover,
 .submitButton:focus {
-  background-color:  rgb(199,223,96);
+  background-color:  rgb(199,223,96)
+  ;
+  transform : translate(0, -6px);
+    box-shadow : 10px -10px 25px 0 rgba(64, 248, 104, 0.5), -10px 10px 25px 0 rgba(27, 193, 74, 0.5)
 }
 
 input[type=text] {
@@ -226,7 +233,10 @@ letter-spacing: .2rem;
   box-shadow: none;
   outline: none;
 }
-
+.scoreButton:hover{
+  transform : translate(0, -6px);
+    box-shadow : 10px -10px 25px 0 rgba(40, 182, 175, 0.5), -10px 10px 25px 0 rgba(1, 68, 66, 0.5)
+}
 .skipButton-3:hover {
   background-color: #2c974b;
 }

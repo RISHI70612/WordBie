@@ -94,20 +94,20 @@ return(
 <p>Developers</p>
 
 <div className='member 1'>
-<img src={require('C:/Users/samip/OneDrive/Desktop/Project/WordBie/src/containers/about/bishal.png')} width="100px" height="100px"/>
+<img src={require('C:/Users/Dell/Desktop/WordBie/src/containers/about/samip.png')} width="100px" height="100px"/>
 <body>Bishal Devkota
 </body>
 </div>
 <div className='member 2'>
-<img src={require('C:/Users/samip/OneDrive/Desktop/Project/WordBie/src/containers/about/samip.png')} width="100px" height="100px"/>
+<img src={require('C:/Users/Dell/Desktop/WordBie/src/containers/about/samip.png')} width="100px" height="100px"/>
 <body>Samip Pokhrel
 </body>
 </div>
-<div className='member 3'><img src={require('C:/Users/samip/OneDrive/Desktop/Project/WordBie/src/containers/about/rupak.png')} width="100px" height="100px"/>
+<div className='member 3'><img src={require('C:/Users/Dell/Desktop/WordBie/src/containers/about/samip.png')} width="100px" height="100px"/>
 <body>Rupak Tiwari
 </body></div>
 <div className='member 4'>
-<img src={require('C:/Users/samip/OneDrive/Desktop/Project/WordBie/src/containers/about/rishi.png')} width="100px" height="100px"/>
+<img src={require('C:/Users/Dell/Desktop/WordBie/src/containers/about/samip.png')} width="100px" height="100px"/>
 <body>Rishikesh Kumar Sharma
 </body>
 </div>
